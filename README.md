@@ -36,6 +36,7 @@
  ### USEFUL LINKS
  1. __Working with GitHub:__
   - Git - the simple guide: http://rogerdudler.github.io/git-guide/
+  - Git - add a project: https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
   - How to format README.md file text: https://help.github.com/articles/basic-writing-and-formatting-syntax/
  2. __JGOMAS manual:__
   - English version: http://www.gti-ia.upv.es/sma/tools/jgomas/archivos/documentation/Jason%20JGOMAS%20-%20Manual%20-%20english.pdf
