@@ -1,5 +1,6 @@
 Winner Team: ALLIED
 <<<<<<< HEAD
+<<<<<<< HEAD
 Duration: [4m:40s]
 
 Statistics for ALLIED TEAM
@@ -14,6 +15,14 @@ Statistics for ALLIED TEAM
 		* Alive:       	3
 		* Avrg. Health:	26.333334
 >>>>>>> origin/master
+=======
+Duration: [4m:40s]
+
+Statistics for ALLIED TEAM
+	-GENERAL:
+		* Alive:       	2
+		* Avrg. Health:	18.0
+>>>>>>> dbc3e682c4f30f71d60c78edb0ebe160dc1a734c
 
 	-OBJECTIVE:
 		* Times Taken: 	2
@@ -21,10 +30,14 @@ Statistics for ALLIED TEAM
 
 	-SHOTS:
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> dbc3e682c4f30f71d60c78edb0ebe160dc1a734c
 		* EnemyHit:    	94
 		* TeamHit:     	373
 		* FailedHit:   	85
 		* TOTAL:       	552
+<<<<<<< HEAD
 
 	-MEDIC PACKS:
 		* Delivered:   	20
@@ -52,33 +65,42 @@ Statistics for ALLIED TEAM
 		* TeamHit:     	324
 		* FailedHit:   	108
 		* TOTAL:       	522
+=======
+>>>>>>> dbc3e682c4f30f71d60c78edb0ebe160dc1a734c
 
 	-MEDIC PACKS:
 		* Delivered:   	20
-		* Team Taken:  	10
-		* Enemy Taken: 	3
-		* Not Taken:   	4
+		* Team Taken:  	13
+		* Enemy Taken: 	1
+		* Not Taken:   	6
 
 	-AMMO PACKS:
-		* Delivered:   	4
-		* Team Taken:  	2
-		* Enemy Taken: 	2
+		* Delivered:   	0
+		* Team Taken:  	0
+		* Enemy Taken: 	0
 		* Not Taken:   	0
 
 	-EFICIENCY:
-		* Medic:       	0.8
-		* FieldOps:    	1.0
-		* Army:        	0.9846743295019157
+		* Medic:       	0.7
+		* FieldOps:    	0.0
+		* Army:        	0.9891304347826086
 
 	-ANTI-EFICIENCY:
+<<<<<<< HEAD
 		* Medic:       	0.15
 		* FieldOps:    	0.5
 		* Army:        	0.009259259259259259
 >>>>>>> origin/master
+=======
+		* Medic:       	0.05
+		* FieldOps:    	0.0
+		* Army:        	0.005361930294906166
+>>>>>>> dbc3e682c4f30f71d60c78edb0ebe160dc1a734c
 
 
 Statistics for AXIS TEAM
 	-GENERAL:
+<<<<<<< HEAD
 <<<<<<< HEAD
 		* Alive:       	6
 		* Avrg. Health:	78.166664
@@ -86,6 +108,10 @@ Statistics for AXIS TEAM
 		* Alive:       	8
 		* Avrg. Health:	57.625
 >>>>>>> origin/master
+=======
+		* Alive:       	6
+		* Avrg. Health:	78.166664
+>>>>>>> dbc3e682c4f30f71d60c78edb0ebe160dc1a734c
 
 	-OBJECTIVE:
 		* Times Taken: 	0
@@ -93,10 +119,14 @@ Statistics for AXIS TEAM
 
 	-SHOTS:
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> dbc3e682c4f30f71d60c78edb0ebe160dc1a734c
 		* EnemyHit:    	117
 		* TeamHit:     	151
 		* FailedHit:   	249
 		* TOTAL:       	517
+<<<<<<< HEAD
 
 	-MEDIC PACKS:
 		* Delivered:   	14
@@ -124,28 +154,34 @@ Statistics for AXIS TEAM
 		* TeamHit:     	277
 		* FailedHit:   	302
 		* TOTAL:       	691
+=======
+>>>>>>> dbc3e682c4f30f71d60c78edb0ebe160dc1a734c
 
 	-MEDIC PACKS:
-		* Delivered:   	22
-		* Team Taken:  	18
-		* Enemy Taken: 	0
-		* Not Taken:   	3
+		* Delivered:   	14
+		* Team Taken:  	9
+		* Enemy Taken: 	3
+		* Not Taken:   	2
 
 	-AMMO PACKS:
-		* Delivered:   	17
-		* Team Taken:  	11
+		* Delivered:   	0
+		* Team Taken:  	0
 		* Enemy Taken: 	0
-		* Not Taken:   	6
+		* Not Taken:   	0
 
 	-EFICIENCY:
-		* Medic:       	0.8636363636363636
-		* FieldOps:    	0.6470588235294117
-		* Army:        	0.9956584659913169
+		* Medic:       	0.8571428571428572
+		* FieldOps:    	0.0
+		* Army:        	0.9961315280464217
 
 	-ANTI-EFICIENCY:
-		* Medic:       	0.0
+		* Medic:       	0.21428571428571427
 		* FieldOps:    	0.0
+<<<<<<< HEAD
 		* Army:        	0.02888086642599278
 >>>>>>> origin/master
+=======
+		* Army:        	0.039735099337748346
+>>>>>>> dbc3e682c4f30f71d60c78edb0ebe160dc1a734c
 
 
