@@ -1,16 +1,26 @@
 Winner Team: ALLIED
+<<<<<<< HEAD
 Duration: [4m:40s]
 
 Statistics for ALLIED TEAM
 	-GENERAL:
 		* Alive:       	2
 		* Avrg. Health:	18.0
+=======
+Duration: [3m:36s]
+
+Statistics for ALLIED TEAM
+	-GENERAL:
+		* Alive:       	3
+		* Avrg. Health:	26.333334
+>>>>>>> origin/master
 
 	-OBJECTIVE:
 		* Times Taken: 	2
 		* Times Lost:  	1
 
 	-SHOTS:
+<<<<<<< HEAD
 		* EnemyHit:    	94
 		* TeamHit:     	373
 		* FailedHit:   	85
@@ -37,18 +47,52 @@ Statistics for ALLIED TEAM
 		* Medic:       	0.05
 		* FieldOps:    	0.0
 		* Army:        	0.005361930294906166
+=======
+		* EnemyHit:    	90
+		* TeamHit:     	324
+		* FailedHit:   	108
+		* TOTAL:       	522
+
+	-MEDIC PACKS:
+		* Delivered:   	20
+		* Team Taken:  	10
+		* Enemy Taken: 	3
+		* Not Taken:   	4
+
+	-AMMO PACKS:
+		* Delivered:   	4
+		* Team Taken:  	2
+		* Enemy Taken: 	2
+		* Not Taken:   	0
+
+	-EFICIENCY:
+		* Medic:       	0.8
+		* FieldOps:    	1.0
+		* Army:        	0.9846743295019157
+
+	-ANTI-EFICIENCY:
+		* Medic:       	0.15
+		* FieldOps:    	0.5
+		* Army:        	0.009259259259259259
+>>>>>>> origin/master
 
 
 Statistics for AXIS TEAM
 	-GENERAL:
+<<<<<<< HEAD
 		* Alive:       	6
 		* Avrg. Health:	78.166664
+=======
+		* Alive:       	8
+		* Avrg. Health:	57.625
+>>>>>>> origin/master
 
 	-OBJECTIVE:
 		* Times Taken: 	0
 		* Times Lost:  	2
 
 	-SHOTS:
+<<<<<<< HEAD
 		* EnemyHit:    	117
 		* TeamHit:     	151
 		* FailedHit:   	249
@@ -75,5 +119,33 @@ Statistics for AXIS TEAM
 		* Medic:       	0.21428571428571427
 		* FieldOps:    	0.0
 		* Army:        	0.039735099337748346
+=======
+		* EnemyHit:    	112
+		* TeamHit:     	277
+		* FailedHit:   	302
+		* TOTAL:       	691
+
+	-MEDIC PACKS:
+		* Delivered:   	22
+		* Team Taken:  	18
+		* Enemy Taken: 	0
+		* Not Taken:   	3
+
+	-AMMO PACKS:
+		* Delivered:   	17
+		* Team Taken:  	11
+		* Enemy Taken: 	0
+		* Not Taken:   	6
+
+	-EFICIENCY:
+		* Medic:       	0.8636363636363636
+		* FieldOps:    	0.6470588235294117
+		* Army:        	0.9956584659913169
+
+	-ANTI-EFICIENCY:
+		* Medic:       	0.0
+		* FieldOps:    	0.0
+		* Army:        	0.02888086642599278
+>>>>>>> origin/master
 
 
