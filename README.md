@@ -1,10 +1,11 @@
 # Advanced Artificial Intelligence Techniques. JGOMAS(Game Oriented Multi - Agent System based on JADE and Jason) project.
 
- ### TASKS TO DO
-
+ ### TASKS
+ - [X] If an agent gets shot and doesn't have any enemy in sight, he'll look around and search for the shooter.
  - [ ] Win with AXIS team by default settings.
  - [ ] Prevent "Friendly fire" for ALLIED and AXIS teams.
-
+ - [ ] Prevent freeze Allied agents problem when the flag is takken.
+ - [ ] Allied agent sometimes run away when it is not necessary
 
 ## Files meaning
 1. __DATA__ - Folder contains __fonts, maps, themes__ folders.
