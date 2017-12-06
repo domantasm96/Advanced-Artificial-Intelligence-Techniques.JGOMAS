@@ -5,7 +5,10 @@
  - [ ] Win with AXIS team by default settings.
  - [ ] Prevent "Friendly fire" for ALLIED and AXIS teams.
 
+ ### TASKS DONE
 
+ - [ ] If an agent gets shot and doesn't have any enemy in sight, he'll look around and search for the shooter
+ 
 ## Files meaning
 1. __DATA__ - Folder contains __fonts, maps, themes__ folders.
 2. __MAS__ - Folders contains JGOMAS(Game Oriented Multi - Agent System based on JADE and Jason) files.
