@@ -169,7 +169,40 @@ patrollingRadius(64).
  * <em> It's very useful to overload this plan. </em>
  *
  */
-+!perform_injury_action .
++!perform_injury_action 
+<-
+			.time_in_millis(CurrentTime);
+			-+last_time_look(CurrentTime);
+
+			// Look around.
+			!look;
+
+			!perform_look_action;
+
+			!get_agent_to_aim;
+
+
+			if ((aimed(Ag)) & (Ag=="true")) {
+				// Save current destination.
+				?current_destination(OldDestination);
+
+				!perform_aim_action;
+
+				?debug(Mode); if (Mode<=2) { .println("VOY A DISPARAR!!!"); }
+				// Shot.
+				!!shot(0);
+
+				// Continue to previous destination.
+
+				update_destination(OldDestination);
+
+				-+last_time_move(CurrentTime);
+
+				// ya no tengo objetivo
+				-+aimed("false");
+
+			}; // End of if (aimed_agent)
+			.
 ///<- ?debug(Mode); if (Mode<=1) { .println("YOUR CODE FOR PERFORM_INJURY_ACTION GOES HERE.") }.
 
 
