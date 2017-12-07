@@ -6,7 +6,7 @@
  - [X] If an agent gets shot and doesn't have any enemy in sight, he'll look around and search for the shooter.
  - [ ] Win with AXIS team by default settings.
  - [ ] Prevent "Friendly fire" for ALLIED and AXIS teams.
- - [ ] Prevent freeze Allied agents problem when the flag is takken.
+ - [X] Prevent freeze Allied agents problem when the flag is taken.
  - [ ] Allied agent sometimes run away when it is not necessary
 
 =======
@@ -21,7 +21,7 @@
  - [X] If an agent gets shot and doesn't have any enemy in sight, he'll look around and search for the shooter.
  - [ ] Win with AXIS team by default settings.
  - [ ] Prevent "Friendly fire" for ALLIED and AXIS teams.
- - [ ] Prevent freeze Allied agents problem when the flag is takken.
+ - [X] Prevent freeze Allied agents problem when the flag is taken.
  - [ ] Allied agent sometimes run away when it is not necessary
 >>>>>>> dbc3e682c4f30f71d60c78edb0ebe160dc1a734c
 
