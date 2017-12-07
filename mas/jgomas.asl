@@ -446,6 +446,11 @@ current_task(nil).
 
         -+tasks(NewTaskList);
 
+		//HW4: Retreat
+		.my_team("ALLIED",E1);
+		.concat("retreat(",30,",",0,",",238,")",Content1);
+		.send_msg_with_conversation_id(E1,tell,Content1,"INT");
+		
 		-+state(standing);
         .drop_desire(fsm);
 
