@@ -1,33 +1,13 @@
 # Advanced Artificial Intelligence Techniques. JGOMAS(Game Oriented Multi - Agent System based on JADE and Jason) project.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
  ### TASKS
  - [X] If an agent gets shot and doesn't have any enemy in sight, he'll look around and search for the shooter.
  - [ ] Win with AXIS team by default settings.
  - [ ] Prevent "Friendly fire" for ALLIED and AXIS teams.
  - [X] Prevent freeze Allied agents problem when the flag is taken.
  - [ ] Allied agent sometimes run away when it is not necessary
-
-=======
- ### TASKS TO DO
-
- - [ ] Win with AXIS team by default settings.
- - [ ] Prevent "Friendly fire" for ALLIED and AXIS teams.
-
- ### TASKS DONE
-=======
- ### TASKS
- - [X] If an agent gets shot and doesn't have any enemy in sight, he'll look around and search for the shooter.
- - [ ] Win with AXIS team by default settings.
- - [ ] Prevent "Friendly fire" for ALLIED and AXIS teams.
- - [X] Prevent freeze Allied agents problem when the flag is taken.
- - [ ] Allied agent sometimes run away when it is not necessary
->>>>>>> dbc3e682c4f30f71d60c78edb0ebe160dc1a734c
-
  - [ ] If an agent gets shot and doesn't have any enemy in sight, he'll look around and search for the shooter
  
->>>>>>> origin/master
 ## Files meaning
 1. __DATA__ - Folder contains __fonts, maps, themes__ folders.
 2. __MAS__ - Folders contains JGOMAS(Game Oriented Multi - Agent System based on JADE and Jason) files.
@@ -58,16 +38,8 @@
  ### USEFUL LINKS
  1. __Working with GitHub:__
   - Git - the simple guide: http://rogerdudler.github.io/git-guide/
-<<<<<<< HEAD
-=======
   - Git - add a project: https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
->>>>>>> origin/master
   - How to format README.md file text: https://help.github.com/articles/basic-writing-and-formatting-syntax/
  2. __JGOMAS manual:__
   - English version: http://www.gti-ia.upv.es/sma/tools/jgomas/archivos/documentation/Jason%20JGOMAS%20-%20Manual%20-%20english.pdf
   - Spanish version: http://www.gti-ia.upv.es/sma/tools/jgomas/archivos/documentation/Jason%20JGOMAS%20-%20Manual.pdf
-<<<<<<< HEAD
- 3. __Jason manual:__ http://jason.sourceforge.net/Jason.pdf
-=======
- 3. __Jason manual:__ http://jason.sourceforge.net/Jason.pdf
->>>>>>> origin/master

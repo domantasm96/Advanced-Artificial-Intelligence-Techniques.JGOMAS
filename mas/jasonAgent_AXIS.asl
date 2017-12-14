@@ -9,7 +9,7 @@ team("AXIS").
 type("CLASS_SOLDIER").
 
 // Value of "closeness" to the Flag, when patrolling in defense
-patrollingRadius(64).
+patrollingRadius(62).
 
 
 
@@ -303,7 +303,8 @@ patrollingRadius(64).
        
        
        }
-       
+       ?my_position(X, Y, Z);
+          
        ?my_health_threshold(Ht);
        ?my_health(Hr);
        

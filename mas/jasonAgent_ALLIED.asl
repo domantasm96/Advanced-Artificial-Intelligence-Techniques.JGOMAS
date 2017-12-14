@@ -72,9 +72,12 @@ if (Length > 0) {
             
             if (Team == 200) {  // Only if I'm ALLIED
 				
-                ?debug(Mode); if (Mode<=2) { .println("Aiming an enemy. . .", MyTeam, " ", .number(MyTeam) , " ", Team, " ", .number(Team)); }
-                +aimed_agent(Object);
-                -+aimed("true");
+              .nth(0, FOVObjects, Object1);
+              .nth(3, Object1, Pos1);
+              if(Pos1 > 0.5){
+                  +aimed_agent(Object);
+                  -+aimed("true");
+                }
                 
             }
             
