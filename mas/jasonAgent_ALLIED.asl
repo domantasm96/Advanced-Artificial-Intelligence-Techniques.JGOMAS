@@ -45,6 +45,7 @@ type("CLASS_SOLDIER").
 ?fovObjects(FOVObjects);
 .length(FOVObjects, Length);
 
+
 ?debug(Mode); if (Mode<=1) { .println("El numero de objetos es:", Length); }
 
 if (Length > 0) {

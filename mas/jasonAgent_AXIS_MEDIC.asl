@@ -46,7 +46,15 @@ patrollingRadius(25).
         .length(FOVObjects, Length);
         
         ?debug(Mode); if (Mode<=1) { .println("El numero de objetos es:", Length); }
-        
+		/*
+		?myPosition(A,B,C);
+		if ((Length == 0) & (A ==220) & (C == 220))
+		{
+			.my_team("AXIS",E1);
+			.concat("help(",pos(20,0,230),")",Content1);
+			.send_msg_with_conversation_id(E1,tell,Content1,"INT");
+		}
+        */
         if (Length > 0) {
 		    +bucle(0);
     
@@ -65,11 +73,12 @@ patrollingRadius(25).
                 
                 if (Type > 1000) {
                     ?debug(Mode); if (Mode<=2) { .println("I found some object."); }
-					/*?flagPos(X,Y,Z);
-					?pos(A,B,C);
-					if ((Team == 1003) & X==A & Z==C)
+					/*.nth(1, Object, Team);
+					if ((not (Team == 1003)) & (A ==220) & (C == 220))
 					{
-						.println("La bandera se ha movido");
+						.my_team("AXIS",E1);
+						.concat("help(",pos(20,0,230),")",Content1);
+						.send_msg_with_conversation_id(E1,tell,Content1,"INT");
 					}*/
 					
                 } else {
