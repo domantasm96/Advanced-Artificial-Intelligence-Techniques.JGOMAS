@@ -9,7 +9,7 @@ team("AXIS").
 type("CLASS_FIELDOPS").
 
 // Value of "closeness" to the Flag, when patrolling in defense
-patrollingRadius(62).
+patrollingRadius(64).
 
 
 
@@ -70,12 +70,12 @@ patrollingRadius(62).
 										.nth(1, Object, Team);
 										?my_formattedTeam(MyTeam);
 					
-										if (Team == 100) {  // Only if I'm AXIS
-				
-							?debug(Mode); if (Mode<=2) { .println("Aiming an enemy. . .", MyTeam, " ", .number(MyTeam) , " ", Team, " ", .number(Team)); }
-							+aimed_agent(Object);
-												-+aimed("true");
-
+										if (Team == 100) {  // Only if I'm AXIS			
+											.nth(6, Object, Pos);
+											!add_task(task(750,"TASK_GOTO_POSITION",M,Pos,""));
+											//update_destination(Pos);
+                      +aimed_agent(Object);
+                      -+aimed("true");
 										}
 										
 								}
@@ -170,8 +170,9 @@ patrollingRadius(62).
  *
  */
 +!perform_injury_action 
-<-
-			.time_in_millis(CurrentTime);
+<- 
+?debug(Mode); if (Mode<=1) { .println("YOUR CODE FOR PERFORM_INJURY_ACTION GOES HERE.") }.
+			/*.time_in_millis(CurrentTime);
 			-+last_time_look(CurrentTime);
 
 			// Look around.
@@ -203,7 +204,8 @@ patrollingRadius(62).
 
 			}; // End of if (aimed_agent)
 			.
-///<- ?debug(Mode); if (Mode<=1) { .println("YOUR CODE FOR PERFORM_INJURY_ACTION GOES HERE.") }.
+			*/
+///
 
 
 /////////////////////////////////

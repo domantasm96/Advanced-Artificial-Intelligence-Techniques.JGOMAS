@@ -75,11 +75,12 @@ if (Length > 0) {
 				
               .nth(0, FOVObjects, Object1);
               .nth(3, Object1, Pos1);
-               if(Pos1 > 0.5){
+              +aimed_agent(Object);
+              +aimed("true");
+               /*if(Pos1 > 0.5){
                   +aimed_agent(Object);
                   -+aimed("true");
-                }
-                
+                }  */           
             }
             
         }
