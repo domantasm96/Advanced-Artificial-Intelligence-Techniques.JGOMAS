@@ -47,6 +47,7 @@ type("CLASS_MEDIC").
 ?debug(Mode); if (Mode<=1) { .println("El numero de objetos es:", Length); }
 
 if (Length > 0) {
+
     +bucle(0);
     
     -+aimed("false");
@@ -64,16 +65,21 @@ if (Length > 0) {
         
         if (Type > 1000) {
             ?debug(Mode); if (Mode<=2) { .println("I found some object."); }
-        } else {
+        } 
+        else {
             // Object may be an enemy
             .nth(1, Object, Team);
             ?my_formattedTeam(MyTeam);
             
             if (Team == 200) {  // Only if I'm ALLIED
-				
-                ?debug(Mode); if (Mode<=2) { .println("Aiming an enemy. . .", MyTeam, " ", .number(MyTeam) , " ", Team, " ", .number(Team)); }
-                +aimed_agent(Object);
-                -+aimed("true");
+              .nth(0, FOVObjects, Object1);
+              .nth(3, Object1, Pos1);
+              +aimed_agent(Object);
+              +aimed("true");
+                if(Pos1 > 0.5){
+                  +aimed_agent(Object);
+                  -+aimed("true");
+                }
                 
             }
             
@@ -87,6 +93,19 @@ if (Length > 0) {
 }
 
 -bucle(_).
+
+//HW4: Retreat
++retreat(X,Y,Z)[source(A)]
+<-	
+	?tasks(TaskList);
+	?current_task(PrioritaryTask);
+	.delete(PrioritaryTask,TaskList,NewTaskList);	
+	
+	.println("Message recieved by the soldier, going to base.");
+	
+	!add_task(task("TASK_GOTO_POSITION",A,pos(X,Y,Z),""));
+	-+state(standing);
+	-goto(_,_,_).
 
 /////////////////////////////////
 //  LOOK RESPONSE

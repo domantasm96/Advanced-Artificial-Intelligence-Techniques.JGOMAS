@@ -1,0 +1,224 @@
+[A8] Error receiving message.
+java.lang.StringIndexOutOfBoundsException: begin 3, end -1, length 299
+	at java.base/java.lang.String.checkBoundsBeginEnd(Unknown Source)
+	at java.base/java.lang.String.substring(Unknown Source)
+	at es.upv.dsic.gti_ia.JasonJGomas.BasicTroopJasonArch.translateContentToJason(BasicTroopJasonArch.java:799)
+	at jason.infra.jade.JadeAgArch.checkMail(JadeAgArch.java:319)
+	at jason.architecture.AgArch.checkMail(AgArch.java:187)
+	at jason.asSemantics.TransitionSystem.reasoningCycle(TransitionSystem.java:1113)
+	at jason.infra.jade.JadeAgArch$JasonTSReasoner.action(JadeAgArch.java:241)
+	at jade.core.behaviours.Behaviour.actionWrapper(Behaviour.java:344)
+	at jade.core.Agent$ActiveLifeCycle.execute(Agent.java:1500)
+	at jade.core.Agent.run(Agent.java:1439)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+[T5] Error receiving message.
+java.lang.StringIndexOutOfBoundsException: begin 3, end -1, length 299
+	at java.base/java.lang.String.checkBoundsBeginEnd(Unknown Source)
+	at java.base/java.lang.String.substring(Unknown Source)
+	at es.upv.dsic.gti_ia.JasonJGomas.BasicTroopJasonArch.translateContentToJason(BasicTroopJasonArch.java:799)
+	at jason.infra.jade.JadeAgArch.checkMail(JadeAgArch.java:319)
+	at jason.architecture.AgArch.checkMail(AgArch.java:187)
+	at jason.asSemantics.TransitionSystem.reasoningCycle(TransitionSystem.java:1113)
+	at jason.infra.jade.JadeAgArch$JasonTSReasoner.action(JadeAgArch.java:241)
+	at jade.core.behaviours.Behaviour.actionWrapper(Behaviour.java:344)
+	at jade.core.Agent$ActiveLifeCycle.execute(Agent.java:1500)
+	at jade.core.Agent.run(Agent.java:1439)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+[T6] Error receiving message.
+java.lang.StringIndexOutOfBoundsException: begin 3, end -1, length 299
+	at java.base/java.lang.String.checkBoundsBeginEnd(Unknown Source)
+	at java.base/java.lang.String.substring(Unknown Source)
+	at es.upv.dsic.gti_ia.JasonJGomas.BasicTroopJasonArch.translateContentToJason(BasicTroopJasonArch.java:799)
+	at jason.infra.jade.JadeAgArch.checkMail(JadeAgArch.java:319)
+	at jason.architecture.AgArch.checkMail(AgArch.java:187)
+	at jason.asSemantics.TransitionSystem.reasoningCycle(TransitionSystem.java:1113)
+	at jason.infra.jade.JadeAgArch$JasonTSReasoner.action(JadeAgArch.java:241)
+	at jade.core.behaviours.Behaviour.actionWrapper(Behaviour.java:344)
+	at jade.core.Agent$ActiveLifeCycle.execute(Agent.java:1500)
+	at jade.core.Agent.run(Agent.java:1439)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+[T7] Error receiving message.
+java.lang.StringIndexOutOfBoundsException: begin 3, end -1, length 299
+	at java.base/java.lang.String.checkBoundsBeginEnd(Unknown Source)
+	at java.base/java.lang.String.substring(Unknown Source)
+	at es.upv.dsic.gti_ia.JasonJGomas.BasicTroopJasonArch.translateContentToJason(BasicTroopJasonArch.java:799)
+	at jason.infra.jade.JadeAgArch.checkMail(JadeAgArch.java:319)
+	at jason.architecture.AgArch.checkMail(AgArch.java:187)
+	at jason.asSemantics.TransitionSystem.reasoningCycle(TransitionSystem.java:1113)
+	at jason.infra.jade.JadeAgArch$JasonTSReasoner.action(JadeAgArch.java:241)
+	at jade.core.behaviours.Behaviour.actionWrapper(Behaviour.java:344)
+	at jade.core.Agent$ActiveLifeCycle.execute(Agent.java:1500)
+	at jade.core.Agent.run(Agent.java:1439)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+[T3] Error receiving message.
+java.lang.StringIndexOutOfBoundsException: begin 3, end -1, length 299
+	at java.base/java.lang.String.checkBoundsBeginEnd(Unknown Source)
+	at java.base/java.lang.String.substring(Unknown Source)
+	at es.upv.dsic.gti_ia.JasonJGomas.BasicTroopJasonArch.translateContentToJason(BasicTroopJasonArch.java:799)
+	at jason.infra.jade.JadeAgArch.checkMail(JadeAgArch.java:319)
+	at jason.architecture.AgArch.checkMail(AgArch.java:187)
+	at jason.asSemantics.TransitionSystem.reasoningCycle(TransitionSystem.java:1113)
+	at jason.infra.jade.JadeAgArch$JasonTSReasoner.action(JadeAgArch.java:241)
+	at jade.core.behaviours.Behaviour.actionWrapper(Behaviour.java:344)
+	at jade.core.Agent$ActiveLifeCycle.execute(Agent.java:1500)
+	at jade.core.Agent.run(Agent.java:1439)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+[T4] Error receiving message.
+java.lang.StringIndexOutOfBoundsException: begin 3, end -1, length 299
+	at java.base/java.lang.String.checkBoundsBeginEnd(Unknown Source)
+	at java.base/java.lang.String.substring(Unknown Source)
+	at es.upv.dsic.gti_ia.JasonJGomas.BasicTroopJasonArch.translateContentToJason(BasicTroopJasonArch.java:799)
+	at jason.infra.jade.JadeAgArch.checkMail(JadeAgArch.java:319)
+	at jason.architecture.AgArch.checkMail(AgArch.java:187)
+	at jason.asSemantics.TransitionSystem.reasoningCycle(TransitionSystem.java:1113)
+	at jason.infra.jade.JadeAgArch$JasonTSReasoner.action(JadeAgArch.java:241)
+	at jade.core.behaviours.Behaviour.actionWrapper(Behaviour.java:344)
+	at jade.core.Agent$ActiveLifeCycle.execute(Agent.java:1500)
+	at jade.core.Agent.run(Agent.java:1439)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+[T9] Error receiving message.
+java.lang.StringIndexOutOfBoundsException: begin 3, end -1, length 299
+	at java.base/java.lang.String.checkBoundsBeginEnd(Unknown Source)
+	at java.base/java.lang.String.substring(Unknown Source)
+	at es.upv.dsic.gti_ia.JasonJGomas.BasicTroopJasonArch.translateContentToJason(BasicTroopJasonArch.java:799)
+	at jason.infra.jade.JadeAgArch.checkMail(JadeAgArch.java:319)
+	at jason.architecture.AgArch.checkMail(AgArch.java:187)
+	at jason.asSemantics.TransitionSystem.reasoningCycle(TransitionSystem.java:1113)
+	at jason.infra.jade.JadeAgArch$JasonTSReasoner.action(JadeAgArch.java:241)
+	at jade.core.behaviours.Behaviour.actionWrapper(Behaviour.java:344)
+	at jade.core.Agent$ActiveLifeCycle.execute(Agent.java:1500)
+	at jade.core.Agent.run(Agent.java:1439)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+[A9] Error receiving message.
+java.lang.StringIndexOutOfBoundsException: begin 3, end -1, length 299
+	at java.base/java.lang.String.checkBoundsBeginEnd(Unknown Source)
+	at java.base/java.lang.String.substring(Unknown Source)
+	at es.upv.dsic.gti_ia.JasonJGomas.BasicTroopJasonArch.translateContentToJason(BasicTroopJasonArch.java:799)
+	at jason.infra.jade.JadeAgArch.checkMail(JadeAgArch.java:319)
+	at jason.architecture.AgArch.checkMail(AgArch.java:187)
+	at jason.asSemantics.TransitionSystem.reasoningCycle(TransitionSystem.java:1113)
+	at jason.infra.jade.JadeAgArch$JasonTSReasoner.action(JadeAgArch.java:241)
+	at jade.core.behaviours.Behaviour.actionWrapper(Behaviour.java:344)
+	at jade.core.Agent$ActiveLifeCycle.execute(Agent.java:1500)
+	at jade.core.Agent.run(Agent.java:1439)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+[T1] Error receiving message.
+java.lang.StringIndexOutOfBoundsException: begin 3, end -1, length 299
+	at java.base/java.lang.String.checkBoundsBeginEnd(Unknown Source)
+	at java.base/java.lang.String.substring(Unknown Source)
+	at es.upv.dsic.gti_ia.JasonJGomas.BasicTroopJasonArch.translateContentToJason(BasicTroopJasonArch.java:799)
+	at jason.infra.jade.JadeAgArch.checkMail(JadeAgArch.java:319)
+	at jason.architecture.AgArch.checkMail(AgArch.java:187)
+	at jason.asSemantics.TransitionSystem.reasoningCycle(TransitionSystem.java:1113)
+	at jason.infra.jade.JadeAgArch$JasonTSReasoner.action(JadeAgArch.java:241)
+	at jade.core.behaviours.Behaviour.actionWrapper(Behaviour.java:344)
+	at jade.core.Agent$ActiveLifeCycle.execute(Agent.java:1500)
+	at jade.core.Agent.run(Agent.java:1439)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+[T8] Error receiving message.
+java.lang.StringIndexOutOfBoundsException: begin 3, end -1, length 299
+	at java.base/java.lang.String.checkBoundsBeginEnd(Unknown Source)
+	at java.base/java.lang.String.substring(Unknown Source)
+	at es.upv.dsic.gti_ia.JasonJGomas.BasicTroopJasonArch.translateContentToJason(BasicTroopJasonArch.java:799)
+	at jason.infra.jade.JadeAgArch.checkMail(JadeAgArch.java:319)
+	at jason.architecture.AgArch.checkMail(AgArch.java:187)
+	at jason.asSemantics.TransitionSystem.reasoningCycle(TransitionSystem.java:1113)
+	at jason.infra.jade.JadeAgArch$JasonTSReasoner.action(JadeAgArch.java:241)
+	at jade.core.behaviours.Behaviour.actionWrapper(Behaviour.java:344)
+	at jade.core.Agent$ActiveLifeCycle.execute(Agent.java:1500)
+	at jade.core.Agent.run(Agent.java:1439)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+[A2] Error receiving message.
+java.lang.StringIndexOutOfBoundsException: begin 3, end -1, length 299
+	at java.base/java.lang.String.checkBoundsBeginEnd(Unknown Source)
+	at java.base/java.lang.String.substring(Unknown Source)
+	at es.upv.dsic.gti_ia.JasonJGomas.BasicTroopJasonArch.translateContentToJason(BasicTroopJasonArch.java:799)
+	at jason.infra.jade.JadeAgArch.checkMail(JadeAgArch.java:319)
+	at jason.architecture.AgArch.checkMail(AgArch.java:187)
+	at jason.asSemantics.TransitionSystem.reasoningCycle(TransitionSystem.java:1113)
+	at jason.infra.jade.JadeAgArch$JasonTSReasoner.action(JadeAgArch.java:241)
+	at jade.core.behaviours.Behaviour.actionWrapper(Behaviour.java:344)
+	at jade.core.Agent$ActiveLifeCycle.execute(Agent.java:1500)
+	at jade.core.Agent.run(Agent.java:1439)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+[A3] Error receiving message.
+java.lang.StringIndexOutOfBoundsException: begin 3, end -1, length 299
+	at java.base/java.lang.String.checkBoundsBeginEnd(Unknown Source)
+	at java.base/java.lang.String.substring(Unknown Source)
+	at es.upv.dsic.gti_ia.JasonJGomas.BasicTroopJasonArch.translateContentToJason(BasicTroopJasonArch.java:799)
+	at jason.infra.jade.JadeAgArch.checkMail(JadeAgArch.java:319)
+	at jason.architecture.AgArch.checkMail(AgArch.java:187)
+	at jason.asSemantics.TransitionSystem.reasoningCycle(TransitionSystem.java:1113)
+	at jason.infra.jade.JadeAgArch$JasonTSReasoner.action(JadeAgArch.java:241)
+	at jade.core.behaviours.Behaviour.actionWrapper(Behaviour.java:344)
+	at jade.core.Agent$ActiveLifeCycle.execute(Agent.java:1500)
+	at jade.core.Agent.run(Agent.java:1439)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+[A5] Error receiving message.
+java.lang.StringIndexOutOfBoundsException: begin 3, end -1, length 299
+	at java.base/java.lang.String.checkBoundsBeginEnd(Unknown Source)
+	at java.base/java.lang.String.substring(Unknown Source)
+	at es.upv.dsic.gti_ia.JasonJGomas.BasicTroopJasonArch.translateContentToJason(BasicTroopJasonArch.java:799)
+	at jason.infra.jade.JadeAgArch.checkMail(JadeAgArch.java:319)
+	at jason.architecture.AgArch.checkMail(AgArch.java:187)
+	at jason.asSemantics.TransitionSystem.reasoningCycle(TransitionSystem.java:1113)
+	at jason.infra.jade.JadeAgArch$JasonTSReasoner.action(JadeAgArch.java:241)
+	at jade.core.behaviours.Behaviour.actionWrapper(Behaviour.java:344)
+	at jade.core.Agent$ActiveLifeCycle.execute(Agent.java:1500)
+	at jade.core.Agent.run(Agent.java:1439)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+[A7] Error receiving message.
+java.lang.StringIndexOutOfBoundsException: begin 3, end -1, length 299
+	at java.base/java.lang.String.checkBoundsBeginEnd(Unknown Source)
+	at java.base/java.lang.String.substring(Unknown Source)
+	at es.upv.dsic.gti_ia.JasonJGomas.BasicTroopJasonArch.translateContentToJason(BasicTroopJasonArch.java:799)
+	at jason.infra.jade.JadeAgArch.checkMail(JadeAgArch.java:319)
+	at jason.architecture.AgArch.checkMail(AgArch.java:187)
+	at jason.asSemantics.TransitionSystem.reasoningCycle(TransitionSystem.java:1113)
+	at jason.infra.jade.JadeAgArch$JasonTSReasoner.action(JadeAgArch.java:241)
+	at jade.core.behaviours.Behaviour.actionWrapper(Behaviour.java:344)
+	at jade.core.Agent$ActiveLifeCycle.execute(Agent.java:1500)
+	at jade.core.Agent.run(Agent.java:1439)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+[T2] Error receiving message.
+java.lang.StringIndexOutOfBoundsException: begin 3, end -1, length 299
+	at java.base/java.lang.String.checkBoundsBeginEnd(Unknown Source)
+	at java.base/java.lang.String.substring(Unknown Source)
+	at es.upv.dsic.gti_ia.JasonJGomas.BasicTroopJasonArch.translateContentToJason(BasicTroopJasonArch.java:799)
+	at jason.infra.jade.JadeAgArch.checkMail(JadeAgArch.java:319)
+	at jason.architecture.AgArch.checkMail(AgArch.java:187)
+	at jason.asSemantics.TransitionSystem.reasoningCycle(TransitionSystem.java:1113)
+	at jason.infra.jade.JadeAgArch$JasonTSReasoner.action(JadeAgArch.java:241)
+	at jade.core.behaviours.Behaviour.actionWrapper(Behaviour.java:344)
+	at jade.core.Agent$ActiveLifeCycle.execute(Agent.java:1500)
+	at jade.core.Agent.run(Agent.java:1439)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+[A4] Error receiving message.
+java.lang.StringIndexOutOfBoundsException: begin 3, end -1, length 299
+	at java.base/java.lang.String.checkBoundsBeginEnd(Unknown Source)
+	at java.base/java.lang.String.substring(Unknown Source)
+	at es.upv.dsic.gti_ia.JasonJGomas.BasicTroopJasonArch.translateContentToJason(BasicTroopJasonArch.java:799)
+	at jason.infra.jade.JadeAgArch.checkMail(JadeAgArch.java:319)
+	at jason.architecture.AgArch.checkMail(AgArch.java:187)
+	at jason.asSemantics.TransitionSystem.reasoningCycle(TransitionSystem.java:1113)
+	at jason.infra.jade.JadeAgArch$JasonTSReasoner.action(JadeAgArch.java:241)
+	at jade.core.behaviours.Behaviour.actionWrapper(Behaviour.java:344)
+	at jade.core.Agent$ActiveLifeCycle.execute(Agent.java:1500)
+	at jade.core.Agent.run(Agent.java:1439)
+	at java.base/java.lang.Thread.run(Unknown Source)
+

@@ -17,7 +17,7 @@ medicAction(on).
 fieldopsAction(on).
 
 // Indicates if agent has the flag or not.
-// objectivePackTaken(on).
+//objectivePackTaken(on).
 
 // Initial state in Finite State Machine.
 state(standing).
@@ -446,6 +446,11 @@ current_task(nil).
 
         -+tasks(NewTaskList);
 
+		//HW4: Retreat
+		.my_team("ALLIED",E1);
+		.concat("retreat(",30,",",0,",",238,")",Content1);
+		.send_msg_with_conversation_id(E1,tell,Content1,"INT");
+		
 		-+state(standing);
         .drop_desire(fsm);
 
@@ -587,7 +592,6 @@ current_task(nil).
     <-  ?debug(Mode); if (Mode<=2) { .println("AXIS: Objective is at [", ObjectiveX,", ", ObjectiveY, ", ", ObjectiveZ,"] position."); }
     	?patrollingRadius(Rad);
 	    +objective(ObjectiveX, ObjectiveY, ObjectiveZ);
-
     	+newPos(0,0);
 
         +position(invalid);
