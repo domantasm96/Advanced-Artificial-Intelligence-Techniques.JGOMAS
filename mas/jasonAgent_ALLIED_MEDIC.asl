@@ -68,14 +68,14 @@ if (Length > 0) {
             // Object may be an enemy
             .nth(1, Object, Team);
             ?my_formattedTeam(MyTeam);
-            
-            if (Team == 200) {  // Only if I'm ALLIED
+			
+            if ( Team == 200) { // // Only if I'm ALLIED and seeing AXIS
+					
+				?debug(Mode); if (Mode<=2) { .println("Aiming an enemy. . .", MyTeam, " ", .number(MyTeam) , " ", Team, " ", .number(Team)); }
+				+aimed_agent(Object);
+				-+aimed("true");
 				
-                ?debug(Mode); if (Mode<=2) { .println("Aiming an enemy. . .", MyTeam, " ", .number(MyTeam) , " ", Team, " ", .number(Team)); }
-                +aimed_agent(Object);
-                -+aimed("true");
-                
-            }
+			}
             
         }
         

@@ -9,7 +9,7 @@ team("AXIS").
 type("CLASS_MEDIC").
 
 // Value of "closeness" to the Flag, when patrolling in defense
-patrollingRadius(64).
+patrollingRadius(25).
 
 
 
@@ -65,16 +65,29 @@ patrollingRadius(64).
                 
                 if (Type > 1000) {
                     ?debug(Mode); if (Mode<=2) { .println("I found some object."); }
+					/*?flagPos(X,Y,Z);
+					?pos(A,B,C);
+					if ((Team == 1003) & X==A & Z==C)
+					{
+						.println("La bandera se ha movido");
+					}*/
+					
                 } else {
                     // Object may be an enemy
                     .nth(1, Object, Team);
                     ?my_formattedTeam(MyTeam);
-          
-                    if (Team == 100) {  // Only if I'm AXIS
+					
+                    if (Team == 100) {  // Only if I'm AXIS and seeing ALLIED
 				
  					    ?debug(Mode); if (Mode<=2) { .println("Aiming an enemy. . .", MyTeam, " ", .number(MyTeam) , " ", Team, " ", .number(Team)); }
 					    +aimed_agent(Object);
                         -+aimed("true");
+						
+						//TOCADO
+						.nth(6,Object,Position);
+						.my_team("AXIS",E1);
+						.concat("help(",Position,")",Content1);
+						.send_msg_with_conversation_id(E1,tell,Content1,"INT");
 
                     }
                     
@@ -179,7 +192,8 @@ patrollingRadius(64).
 			!perform_look_action;
 
 			!get_agent_to_aim;
-
+			
+			
 
 			if ((aimed(Ag)) & (Ag=="true")) {
 				// Save current destination.
@@ -190,6 +204,14 @@ patrollingRadius(64).
 				?debug(Mode); if (Mode<=2) { .println("VOY A DISPARAR!!!"); }
 				// Shot.
 				!!shot(0);
+				
+				/*if (team("AXIS"))
+				{	
+					?my_position(X,Y,Z);
+					.my_team("AXIS",E1);
+					.concat("help(",X,",",Y,",",Z,")",Content1);
+					.send_msg_with_conversation_id(E1,tell,Content1,"INT");
+				}*/
 
 				// Continue to previous destination.
 
@@ -202,8 +224,16 @@ patrollingRadius(64).
 
 			}; // End of if (aimed_agent)
 			.
-///<- ?debug(Mode); if (Mode<=1) { .println("YOUR CODE FOR PERFORM_INJURY_ACTION GOES HERE.") }.
-
+//TOCADO
++help(Position)[source(A)]
+<-
+	?tasks(TaskList);
+	?current_task(PriorityTask);
+	.delete(PrioritaryTask,TaskList,NewTaskList);
+	
+	!add_task(task("TASK_GOTO_POSITION",A,Position,""));
+	-+state(standing);
+	-help(_,_,_).
 
 /////////////////////////////////
 //  SETUP PRIORITIES

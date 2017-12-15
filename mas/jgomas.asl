@@ -15,6 +15,7 @@ fovObjects([]).
 aimed("false").
 medicAction(on).
 fieldopsAction(on).
+flagPos(220,0,220).
 
 // Indicates if agent has the flag or not.
 // objectivePackTaken(on).
@@ -211,10 +212,12 @@ current_task(nil).
 
 			-+current_destination(CurrentDestination);
 			update_destination(CurrentDestination);
-
-			-+state(go_to_target);
-
-
+			
+			if (not class("AXISfixedpos")){
+				-+state(go_to_target);
+			}else{
+				-+state(go_to_fixedpos);
+			}
 
 
 	    	}  else {
@@ -228,7 +231,7 @@ current_task(nil).
         !!fsm;
         .fail.
 
-+!fsm : state(go_to_target)
+/*+!fsm : type("CLASS_MEDIC") & team("AXIS") & state(go_to_target)
 	<-
 		// Save the initial time for the first time.
 
@@ -304,6 +307,102 @@ current_task(nil).
 
                  move(DiferentialMoveTime);  }
 
+		   //CAMBIAR Y PONER POSICION
+		   //?task(TaskList);
+		   //?current_task(PrioritaryTask);
+		   //.delete(PrioritaryTask, TaskList, NewTaskList);
+		   
+           !add_task(task("TASK_WALKING_PATH", AgAct, pos(150, 0, 220), ""));
+
+           .drop_desire(fsm);
+
+		!!fsm;
+		.fail.*/
+		
++!fsm : state(go_to_target)
+	<-
+		// Save the initial time for the first time.
+
+		if(not initialized_time) {
+			.time_in_millis(FirstCurrentTime);
+
+			+last_time_move(FirstCurrentTime);
+			+last_time_look(FirstCurrentTime);
+
+			+initialized_time;
+
+		}
+		// Need to look?
+		.time_in_millis(CurrentTime);
+		?last_time_look(LastTimeLook);
+		DiferentialLookTime = CurrentTime - LastTimeLook;
+
+		if (DiferentialLookTime > 500) {
+			-+last_time_look(CurrentTime);
+
+			// Look around.
+			!look;
+
+			!perform_look_action;
+
+			!get_agent_to_aim;
+
+
+			if ((aimed(Ag)) & (Ag=="true")) {
+				// Save current destination.
+				?current_destination(OldDestination);
+
+				!perform_aim_action;
+
+				?debug(Mode); if (Mode<=2) { .println("VOY A DISPARAR!!!"); }
+				// Shot.
+				!!shot(0);
+				
+				/*if (team("AXIS"))
+				{	
+					?my_position(X,Y,Z);
+					.my_team("AXIS",E1);
+					.concat("help(",X,",",Y,",",Z,")",Content1);
+					.send_msg_with_conversation_id(E1,tell,Content1,"INT");
+				}*/
+
+				// Continue to previous destination.
+
+				update_destination(OldDestination);
+
+				-+last_time_move(CurrentTime);
+
+				// ya no tengo objetivo
+				-+aimed("false");
+
+			}; // End of if (aimed_agent)
+
+
+
+		}; // Endo of if (DiferentialTime > 500)
+
+		// Can I move?
+		?last_time_move(LastTimeMove);
+
+		DiferentialMoveTime = CurrentTime - LastTimeMove;
+
+		if (DiferentialMoveTime < 33) {
+           .wait(33);
+	       .drop_desire(fsm);
+			!!fsm;
+			.fail;
+ 		}
+
+		-+last_time_move(CurrentTime);
+
+        if (DiferentialMoveTime > 1000) {
+
+              move(1000);
+
+             } else  {
+
+                 move(DiferentialMoveTime);  }
+
         if (path(X ,0, Z, AgAct, Pr)) {
                  !add_task(task(Pr,"TASK_WALKING_PATH", AgAct, pos(X, 0, Z), ""));
                  -path(_,_,_,_,_);
@@ -313,8 +412,6 @@ current_task(nil).
 
 		!!fsm;
 		.fail.
-
-
 
 +!fsm : state(target_reached) & team("AXIS") & current_task(task(_,"TASK_PATROLLING",_,_,_))
 	<-
@@ -822,6 +919,19 @@ current_task(nil).
                     .register( "JGOMAS", "fieldops_AXIS");
 
             }
+			/*
+			if (type("CLASS_SOLDIER_fixedpos"))  {
+				.register( "JGOMAS", "backup_AXIS_fixedpos");
+            }
+
+            if (type("CLASS_MEDIC_fixedpos")) {
+					.register( "JGOMAS", "medic_AXIS_fixedpos");
+            }
+
+            if (type("CLASS_FIELDOPS_fixedpos")) {
+                    .register( "JGOMAS", "fieldops_AXIS_fixedpos");
+
+            }*/
 
         }
 

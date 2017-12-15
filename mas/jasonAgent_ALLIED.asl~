@@ -6,8 +6,7 @@ manager("Manager").
 // Team of troop.
 team("ALLIED").
 // Type of troop.
-type("CLASS_FIELDOPS").
-
+type("CLASS_SOLDIER").
 
 
 
@@ -31,16 +30,16 @@ type("CLASS_FIELDOPS").
 //  GET AGENT TO AIM 
 /////////////////////////////////  
 /**
- * Calculates if there is an enemy at sight.
- *
- * This plan scans the list <tt> m_FOVObjects</tt> (objects in the Field
- * Of View of the agent) looking for an enemy. If an enemy agent is found, a
- * value of aimed("true") is returned. Note that there is no criterion (proximity, etc.) for the
- * enemy found. Otherwise, the return value is aimed("false")
- *
- * <em> It's very useful to overload this plan. </em>
- * 
- */
+* Calculates if there is an enemy at sight.
+* 
+* This plan scans the list <tt> m_FOVObjects</tt> (objects in the Field
+* Of View of the agent) looking for an enemy. If an enemy agent is found, a
+* value of aimed("true") is returned. Note that there is no criterion (proximity, etc.) for the
+* enemy found. Otherwise, the return value is aimed("false")
+* 
+* <em> It's very useful to overload this plan. </em>
+* 
+*/  
 +!get_agent_to_aim
 <-  ?debug(Mode); if (Mode<=2) { .println("Looking for agents to aim."); }
 ?fovObjects(FOVObjects);
@@ -70,20 +69,21 @@ if (Length > 0) {
             // Object may be an enemy
             .nth(1, Object, Team);
             ?my_formattedTeam(MyTeam);
-			
-            if ( Team == 200) { // // Only if I'm ALLIED and seeing AXIS
-					
-				?debug(Mode); if (Mode<=2) { .println("Aiming an enemy. . .", MyTeam, " ", .number(MyTeam) , " ", Team, " ", .number(Team)); }
-				+aimed_agent(Object);
-				-+aimed("true");
+            
+            if (Team == 200) {  // Only if I'm ALLIED
 				
-			}
+                ?debug(Mode); if (Mode<=2) { .println("Aiming an enemy. . .", MyTeam, " ", .number(MyTeam) , " ", Team, " ", .number(Team)); }
+                +aimed_agent(Object);
+                -+aimed("true");
+                
+            }
             
         }
         
         -+bucle(X+1);
         
     }
+    
     
 }
 
@@ -96,7 +96,7 @@ if (Length > 0) {
     <-  //-waiting_look_response;
         .length(FOVObjects, Length);
         if (Length > 0) {
-            ///?debug(Mode); if (Mode<=1) { .println("HAY ", Length, " OBJETOS A MI ALREDEDOR:\n", FOVObjects); }
+            ?debug(Mode); if (Mode<=1) { .println("HAY ", Length, " OBJETOS A MI ALREDEDOR:\n", FOVObjects); }
         };    
         -look_response(_)[source(M)];
         -+fovObjects(FOVObjects);
@@ -174,10 +174,11 @@ if (Length > 0) {
 /////////////////////////////////
 //  SETUP PRIORITIES
 /////////////////////////////////
-/**  You can change initial priorities if you want to change the behaviour of each agent  **/+!setup_priorities
+/**  You can change initial priorities if you want to change the behaviour of each agent  **/
++!setup_priorities
     <-  +task_priority("TASK_NONE",0);
-        +task_priority("TASK_GIVE_MEDICPAKS", 0);
-        +task_priority("TASK_GIVE_AMMOPAKS", 2000);
+        +task_priority("TASK_GIVE_MEDICPAKS", 2000);
+        +task_priority("TASK_GIVE_AMMOPAKS", 0);
         +task_priority("TASK_GIVE_BACKUP", 0);
         +task_priority("TASK_GET_OBJECTIVE",1000);
         +task_priority("TASK_ATTACK", 1000);
@@ -201,7 +202,7 @@ if (Length > 0) {
  *
  */
 
-+!update_targets 
++!update_targets
 	<-	?debug(Mode); if (Mode<=1) { .println("YOUR CODE FOR UPDATE_TARGETS GOES HERE.") }.
 	
 	
@@ -287,6 +288,8 @@ if (Length > 0) {
 //  ANSWER_ACTION_CFM_OR_CFA
 /////////////////////////////////
 
+     
+
     
 +cfm_agree[source(M)]
    <- ?debug(Mode); if (Mode<=1) { .println("YOUR CODE FOR cfm_agree GOES HERE.")};
@@ -305,10 +308,13 @@ if (Length > 0) {
       -cfa_refuse.  
 
 
+
 /////////////////////////////////
 //  Initialize variables
 /////////////////////////////////
 
 +!init
    <- ?debug(Mode); if (Mode<=1) { .println("YOUR CODE FOR init GOES HERE.")}.  
+
+
 
