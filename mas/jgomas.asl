@@ -17,7 +17,7 @@ medicAction(on).
 fieldopsAction(on).
 
 // Indicates if agent has the flag or not.
-// objectivePackTaken(on).
+//objectivePackTaken(on).
 
 // Initial state in Finite State Machine.
 state(standing).
@@ -592,7 +592,6 @@ current_task(nil).
     <-  ?debug(Mode); if (Mode<=2) { .println("AXIS: Objective is at [", ObjectiveX,", ", ObjectiveY, ", ", ObjectiveZ,"] position."); }
     	?patrollingRadius(Rad);
 	    +objective(ObjectiveX, ObjectiveY, ObjectiveZ);
-
     	+newPos(0,0);
 
         +position(invalid);

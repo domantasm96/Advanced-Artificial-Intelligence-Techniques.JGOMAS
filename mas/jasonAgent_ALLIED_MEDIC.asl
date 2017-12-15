@@ -88,19 +88,6 @@ if (Length > 0) {
 
 -bucle(_).
 
-//HW4: Retreat
-+retreat(X,Y,Z)[source(A)]
-<-	
-	?tasks(TaskList);
-	?current_task(PrioritaryTask);
-	.delete(PrioritaryTask,TaskList,NewTaskList);	
-	
-	.println("Message recieved by the soldier, going to base.");
-	
-	!add_task(task("TASK_GOTO_POSITION",A,pos(X,Y,Z),""));
-	-+state(standing);
-	-goto(_,_,_).
-
 /////////////////////////////////
 //  LOOK RESPONSE
 /////////////////////////////////
