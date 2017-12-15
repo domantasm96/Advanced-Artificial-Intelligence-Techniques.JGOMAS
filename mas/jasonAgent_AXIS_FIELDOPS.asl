@@ -9,7 +9,7 @@ team("AXIS").
 type("CLASS_FIELDOPS").
 
 // Value of "closeness" to the Flag, when patrolling in defense
-patrollingRadius(64).
+patrollingRadius(50).
 
 
 

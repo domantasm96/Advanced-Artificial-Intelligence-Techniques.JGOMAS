@@ -77,10 +77,10 @@ if (Length > 0) {
               .nth(3, Object1, Pos1);
               +aimed_agent(Object);
               +aimed("true");
-               /*if(Pos1 > 0.5){
+               if(Pos1 > 0.5){
                   +aimed_agent(Object);
                   -+aimed("true");
-                }  */           
+                }             
             }
             
         }
