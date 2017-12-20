@@ -2,7 +2,7 @@
 
  ### TASKS
  - [X] If an agent gets shot and doesn't have any enemy in sight, he'll look around and search for the shooter.
- - [ ] Win with AXIS team by default settings.
+ - [X] Win with AXIS team by default settings.
  - [ ] Prevent "Friendly fire" for ALLIED and AXIS teams.
  - [X] Prevent freeze Allied agents problem when the flag is taken.
  - [ ] Allied agent sometimes run away when it is not necessary

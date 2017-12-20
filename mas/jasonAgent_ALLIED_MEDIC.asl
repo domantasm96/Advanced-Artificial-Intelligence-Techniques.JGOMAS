@@ -104,6 +104,26 @@ if (Length > 0) {
 	!add_task(task("TASK_GOTO_POSITION",A,pos(X,Y,Z),""));
 	-+state(standing);
 	-goto(_,_,_).
+ 
+
++!dying <-
+?objectivePackTaken(FlagTaken);
+if (FlagTaken==on){
+	 ?my_position(X, Y, Z);          
+	 .my_team("ALLIED", E1);
+	 .concat("findFlag(",X, ", ", Y, ", ", Z, ")", Content1);
+	 .send_msg_with_conversation_id(E1, tell, Content1, "INT");
+}.
+
+
++findFlag(X,Y,Z)[source(A)]<-
+	?tasks(TaskList);
+	?current_task(PrioritaryTask);
+	.delete(PrioritaryTask,TaskList,NewTaskList);
+	!add_task(task("TASK_GET_OBJECTIVE",A,pos(X,Y,Z),""));
+	-+state(standing)
+.
+
 
 /////////////////////////////////
 //  LOOK RESPONSE
