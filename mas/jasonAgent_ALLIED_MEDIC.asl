@@ -47,6 +47,7 @@ type("CLASS_MEDIC").
 ?debug(Mode); if (Mode<=1) { .println("El numero de objetos es:", Length); }
 
 if (Length > 0) {
+
     +bucle(0);
     
     -+aimed("false");
@@ -64,16 +65,19 @@ if (Length > 0) {
         
         if (Type > 1000) {
             ?debug(Mode); if (Mode<=2) { .println("I found some object."); }
-        } else {
+        } 
+        else {
             // Object may be an enemy
             .nth(1, Object, Team);
             ?my_formattedTeam(MyTeam);
             
             if (Team == 200) {  // Only if I'm ALLIED
-				
-                ?debug(Mode); if (Mode<=2) { .println("Aiming an enemy. . .", MyTeam, " ", .number(MyTeam) , " ", Team, " ", .number(Team)); }
-                +aimed_agent(Object);
-                -+aimed("true");
+              .nth(0, FOVObjects, Object1);
+              .nth(3, Object1, Pos1);
+                if(Pos1 > 0.5){
+                  +aimed_agent(Object);
+                  -+aimed("true");
+                }
                 
             }
             
@@ -100,6 +104,26 @@ if (Length > 0) {
 	!add_task(task("TASK_GOTO_POSITION",A,pos(X,Y,Z),""));
 	-+state(standing);
 	-goto(_,_,_).
+ 
+
++!dying <-
+?objectivePackTaken(FlagTaken);
+if (FlagTaken==on){
+	 ?my_position(X, Y, Z);          
+	 .my_team("ALLIED", E1);
+	 .concat("findFlag(",X, ", ", Y, ", ", Z, ")", Content1);
+	 .send_msg_with_conversation_id(E1, tell, Content1, "INT");
+}.
+
+
++findFlag(X,Y,Z)[source(A)]<-
+	?tasks(TaskList);
+	?current_task(PrioritaryTask);
+	.delete(PrioritaryTask,TaskList,NewTaskList);
+	!add_task(task("TASK_GET_OBJECTIVE",A,pos(X,Y,Z),""));
+	-+state(standing)
+.
+
 
 /////////////////////////////////
 //  LOOK RESPONSE

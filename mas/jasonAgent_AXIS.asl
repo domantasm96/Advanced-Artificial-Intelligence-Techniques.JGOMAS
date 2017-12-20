@@ -71,11 +71,11 @@ patrollingRadius(64).
                     ?my_formattedTeam(MyTeam);
           
                     if (Team == 100) {  // Only if I'm AXIS
-				
- 					    ?debug(Mode); if (Mode<=2) { .println("Aiming an enemy. . .", MyTeam, " ", .number(MyTeam) , " ", Team, " ", .number(Team)); }
-					    +aimed_agent(Object);
-                        -+aimed("true");
-
+                      .nth(6, Object, Pos);
+                      !add_task(task(750,"TASK_GOTO_POSITION",M,Pos,""));
+                      //update_destination(Pos);
+                      +aimed_agent(Object);
+                      -+aimed("true");
                     }
                     
                 }
@@ -171,40 +171,40 @@ patrollingRadius(64).
  *
  */
 +!perform_injury_action 
-<-
-			.time_in_millis(CurrentTime);
-			-+last_time_look(CurrentTime);
+<-?debug(Mode); if (Mode<=1) { .println("YOUR CODE FOR PERFORM_INJURY_ACTION GOES HERE.") }.
+      /*.time_in_millis(CurrentTime);
+      -+last_time_look(CurrentTime);
 
-			// Look around.
-			!look;
+      // Look around.
+      !look;
 
-			!perform_look_action;
+      !perform_look_action;
 
-			!get_agent_to_aim;
+      !get_agent_to_aim;
 
 
-			if ((aimed(Ag)) & (Ag=="true")) {
-				// Save current destination.
-				?current_destination(OldDestination);
+      if ((aimed(Ag)) & (Ag=="true")) {
+        // Save current destination.
+        ?current_destination(OldDestination);
 
-				!perform_aim_action;
+        !perform_aim_action;
 
-				?debug(Mode); if (Mode<=2) { .println("VOY A DISPARAR!!!"); }
-				// Shot.
-				!!shot(0);
+        ?debug(Mode); if (Mode<=2) { .println("VOY A DISPARAR!!!"); }
+        // Shot.
+        !!shot(0);
 
-				// Continue to previous destination.
+        // Continue to previous destination.
 
-				update_destination(OldDestination);
+        update_destination(OldDestination);
 
-				-+last_time_move(CurrentTime);
+        -+last_time_move(CurrentTime);
 
-				// ya no tengo objetivo
-				-+aimed("false");
+        // ya no tengo objetivo
+        -+aimed("false");
 
-			}; // End of if (aimed_agent)
-			.
-///<- ?debug(Mode); if (Mode<=1) { .println("YOUR CODE FOR PERFORM_INJURY_ACTION GOES HERE.") }.
+      }; // End of if (aimed_agent)
+      .
+      */
 
 
 /////////////////////////////////
@@ -303,7 +303,8 @@ patrollingRadius(64).
        
        
        }
-       
+       ?my_position(X, Y, Z);
+          
        ?my_health_threshold(Ht);
        ?my_health(Hr);
        
