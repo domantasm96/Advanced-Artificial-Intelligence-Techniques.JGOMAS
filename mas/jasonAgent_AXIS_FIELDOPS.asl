@@ -73,7 +73,6 @@ patrollingRadius(64).
 										if (Team == 100) {  // Only if I'm AXIS			
 											.nth(6, Object, Pos);
 											!add_task(task(750,"TASK_GOTO_POSITION",M,Pos,""));
-											//update_destination(Pos);
                       +aimed_agent(Object);
                       -+aimed("true");
 										}
@@ -169,10 +168,15 @@ patrollingRadius(64).
  * <em> It's very useful to overload this plan. </em>
  *
  */
-+!perform_injury_action 
+/*+!perform_injury_action 
 <- 
-?debug(Mode); if (Mode<=1) { .println("YOUR CODE FOR PERFORM_INJURY_ACTION GOES HERE.") }.
-			/*.time_in_millis(CurrentTime);
+?my_position(X,Y,Z);
+.random(Randz);
+NewZ = Z + RandZ;
+!add_task(task(750,"TASK_GOTO_POSITION",M,pos(X, Y, NewZ),""))
+./*
+/*?debug(Mode); if (Mode<=1) { .println("YOUR CODE FOR PERFORM_INJURY_ACTION GOES HERE.") }.
+			.time_in_millis(CurrentTime);
 			-+last_time_look(CurrentTime);
 
 			// Look around.
@@ -202,8 +206,7 @@ patrollingRadius(64).
 				// ya no tengo objetivo
 				-+aimed("false");
 
-			}; // End of if (aimed_agent)
-			.
+			}; // End of if (aimed_agent).
 			*/
 ///
 

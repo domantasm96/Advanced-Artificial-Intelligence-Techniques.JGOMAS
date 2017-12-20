@@ -17,7 +17,7 @@ medicAction(on).
 fieldopsAction(on).
 
 // Indicates if agent has the flag or not.
-//objectivePackTaken(on).
+objectivePackTaken(off).
 
 // Initial state in Finite State Machine.
 state(standing).
@@ -156,11 +156,10 @@ current_task(nil).
 *******************************/
 +!fsm : state(standing)
 	<- 	//operate
-
-
 		?my_health(Health);
 		if (Health <= 0) {
 			?debug(Mode); if (Mode<=1) { .println("ESTOY MUERTO Y ME VOY AL ESTADO QUIT"); }
+			!dying;
 			-+state(quit);
 			tasks([]);
 			.drop_all_intentions;
@@ -450,7 +449,7 @@ current_task(nil).
 		.my_team("ALLIED",E1);
 		.concat("retreat(",30,",",0,",",238,")",Content1);
 		.send_msg_with_conversation_id(E1,tell,Content1,"INT");
-		
+		-+objectivePackTaken(on);
 		-+state(standing);
         .drop_desire(fsm);
 

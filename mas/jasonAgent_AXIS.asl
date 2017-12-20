@@ -170,9 +170,16 @@ patrollingRadius(64).
  * <em> It's very useful to overload this plan. </em>
  *
  */
-+!perform_injury_action 
-<-?debug(Mode); if (Mode<=1) { .println("YOUR CODE FOR PERFORM_INJURY_ACTION GOES HERE.") }.
-      /*.time_in_millis(CurrentTime);
+/*+!perform_injury_action 
+<- 
+?my_position(X,Y,Z);
+.random(Randz);
+NewZ = Z + RandZ;
+!add_task(task(750,"TASK_GOTO_POSITION",M,pos(X, Y, NewZ),""))
+./*
+.
+/*?debug(Mode); if (Mode<=1) { .println("YOUR CODE FOR PERFORM_INJURY_ACTION GOES HERE.") }.
+      .time_in_millis(CurrentTime);
       -+last_time_look(CurrentTime);
 
       // Look around.
