@@ -252,9 +252,14 @@ if (FlagTaken==on){
  * <em> It's very useful to overload this plan. </em>
  *
  */
- +!checkMedicAction
-     <-  -+medicAction(on).
-      // go to help
++!checkMedicAction
+     <- ?objectivePackTaken(X);
+     if(X==on){
+      -+medicAction(off);
+     }
+     else{
+      -+medicAction(on);
+     }.
       
       
 /////////////////////////////////

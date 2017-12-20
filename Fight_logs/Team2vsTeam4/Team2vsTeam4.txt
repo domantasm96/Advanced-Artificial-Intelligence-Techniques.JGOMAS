@@ -1,0 +1,3057 @@
+Retrieving CommandDispatcher for platform null
+JGOMAS v. 0.1.6 (c) GTI-IA 2005 - 2008 (DSIC / UPV)
+
+Activating Agent (Manager@127.0.0.1:1099/JADE - id: 0) ... [OK]
+   * Name: JGomasManager
+   * Type: Management
+Registering in DF ... [OK]
+Manager (Expected Agents): 18
+Set current directory to /home/xabiier/Escritorio/JGOMAS-Final/JGOMAS/mas
+Found path: /home/xabiier/Escritorio/JGOMAS-Final/JGOMAS/mas/../../Render/JGPH64.x86_64
+Mono path[0] = '/home/xabiier/Escritorio/JGOMAS-Final/JGOMAS/mas/../../Render/JGPH64_Data/Managed'
+Mono path[1] = '/home/xabiier/Escritorio/JGOMAS-Final/JGOMAS/mas/../../Render/JGPH64_Data/Mono'
+Mono config path = '/home/xabiier/Escritorio/JGOMAS-Final/JGOMAS/mas/../../Render/JGPH64_Data/Mono/etc'
+displaymanager : xrandr version warning. 1.5
+client has 2 screens
+displaymanager screen (0)(LVDS-1): 1366 x 768
+Using libudev for joystick management
+
+
+Importing game controller configs
+Retrieving CommandDispatcher for platform null
+
+Activating Agent (Axis_Team4/jasonAgent_AXIS_FIELDOPS_2@127.0.0.1:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (Allied_Medic_8@127.0.0.1:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (Allied_Medic_5@127.0.0.1:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (Axis_Team4/jasonAgent_AXIS_FIELDOPS_4@127.0.0.1:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (Axis_Team4/jasonAgent_AXIS_MEDIC_7@127.0.0.1:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (Allied_Medic_6@127.0.0.1:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (Allied_Soldier_UP_4@127.0.0.1:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (Allied_Soldier_UP_3@127.0.0.1:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (Allied_Soldier_UP_2@127.0.0.1:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (Axis_Team4/jasonAgent_AXIS_FIELDOPS_3@127.0.0.1:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (Axis_Team4/jasonAgent_AXIS_FIELDOPS_1@127.0.0.1:1099/JADE - id: -1) ... [OK]
+
+Activating Agent (Allied_Soldier_UP_1@127.0.0.1:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (Allied_Medic_7@127.0.0.1:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (Axis_Team4/jasonAgent_AXIS_MEDIC_9@127.0.0.1:1099/JADE - id: -1) ... [OK]
+Nothing to register
+Nothing to register
+
+Activating Agent (Allied_Medic_9@127.0.0.1:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (Axis_Team4/jasonAgent_AXIS_FIELDOPS_6@127.0.0.1:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (Axis_Team4/jasonAgent_AXIS_FIELDOPS_5@127.0.0.1:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (Axis_Team4/jasonAgent_AXIS_MEDIC_8@127.0.0.1:1099/JADE - id: -1) ... [OK]
+Nothing to register
+Manager: Msg received: ID: 0 Name: Allied_Medic_6 TYPE: 2 TEAM: 100
+Manager: [Allied_Medic_6] is Ready!
+Manager: Msg received: ID: 0 Name: Allied_Soldier_UP_2 TYPE: 1 TEAM: 100
+Manager: [Allied_Soldier_UP_2] is Ready!
+Manager: Msg received: ID: 0 Name: Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 TYPE: 4 TEAM: 200
+Manager: [Axis_Team4/jasonAgent_AXIS_FIELDOPS_3] is Ready!
+Manager: Msg received: ID: 0 Name: Axis_Team4/jasonAgent_AXIS_FIELDOPS_5 TYPE: 4 TEAM: 200
+Manager: [Axis_Team4/jasonAgent_AXIS_FIELDOPS_5] is Ready!
+Manager: Msg received: ID: 0 Name: Axis_Team4/jasonAgent_AXIS_FIELDOPS_6 TYPE: 4 TEAM: 200
+Manager: [Axis_Team4/jasonAgent_AXIS_FIELDOPS_6] is Ready!
+Manager: Msg received: ID: 0 Name: Allied_Soldier_UP_3 TYPE: 1 TEAM: 100
+Manager: [Allied_Soldier_UP_3] is Ready!
+Manager: Msg received: ID: 0 Name: Allied_Medic_8 TYPE: 2 TEAM: 100
+Manager: [Allied_Medic_8] is Ready!
+Manager: Msg received: ID: 0 Name: Allied_Soldier_UP_4 TYPE: 1 TEAM: 100
+Manager: [Allied_Soldier_UP_4] is Ready!
+Manager: Msg received: ID: 0 Name: Axis_Team4/jasonAgent_AXIS_MEDIC_8 TYPE: 2 TEAM: 200
+Manager: [Axis_Team4/jasonAgent_AXIS_MEDIC_8] is Ready!
+Manager: Msg received: ID: 0 Name: Axis_Team4/jasonAgent_AXIS_FIELDOPS_2 TYPE: 4 TEAM: 200
+Manager: [Axis_Team4/jasonAgent_AXIS_FIELDOPS_2] is Ready!
+Manager: Msg received: ID: 0 Name: Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 TYPE: 4 TEAM: 200
+Manager: [Axis_Team4/jasonAgent_AXIS_FIELDOPS_4] is Ready!
+Manager: Msg received: ID: 0 Name: Axis_Team4/jasonAgent_AXIS_MEDIC_9 TYPE: 2 TEAM: 200
+Manager: [Axis_Team4/jasonAgent_AXIS_MEDIC_9] is Ready!
+Manager: Msg received: ID: 0 Name: Allied_Medic_5 TYPE: 2 TEAM: 100
+Manager: [Allied_Medic_5] is Ready!
+Manager: Msg received: ID: 0 Name: Allied_Medic_7 TYPE: 2 TEAM: 100
+Manager: [Allied_Medic_7] is Ready!
+Manager: Msg received: ID: 0 Name: Allied_Medic_9 TYPE: 2 TEAM: 100
+Manager: [Allied_Medic_9] is Ready!
+Manager: Msg received: ID: 0 Name: Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 TYPE: 4 TEAM: 200
+Manager: [Axis_Team4/jasonAgent_AXIS_FIELDOPS_1] is Ready!
+Manager: Msg received: ID: 0 Name: Allied_Soldier_UP_1 TYPE: 1 TEAM: 100
+Manager: [Allied_Soldier_UP_1] is Ready!
+Manager: Msg received: ID: 0 Name: Axis_Team4/jasonAgent_AXIS_MEDIC_7 TYPE: 2 TEAM: 200
+Manager: [Axis_Team4/jasonAgent_AXIS_MEDIC_7] is Ready!
+Manager (Accepted Agents): 18
+Manager[1]: Sending notification to fight to: Allied_Medic_6
+Manager[2]: Sending notification to fight to: Allied_Soldier_UP_2
+Manager[3]: Sending notification to fight to: Axis_Team4/jasonAgent_AXIS_FIELDOPS_3
+Manager[4]: Sending notification to fight to: Axis_Team4/jasonAgent_AXIS_FIELDOPS_5
+Manager[5]: Sending notification to fight to: Axis_Team4/jasonAgent_AXIS_FIELDOPS_6
+Manager[6]: Sending notification to fight to: Allied_Soldier_UP_3
+Manager[7]: Sending notification to fight to: Allied_Medic_8
+Manager[8]: Sending notification to fight to: Allied_Soldier_UP_4
+Manager[9]: Sending notification to fight to: Axis_Team4/jasonAgent_AXIS_MEDIC_8
+Manager[10]: Sending notification to fight to: Axis_Team4/jasonAgent_AXIS_FIELDOPS_2
+Manager[11]: Sending notification to fight to: Axis_Team4/jasonAgent_AXIS_FIELDOPS_4
+Manager[12]: Sending notification to fight to: Axis_Team4/jasonAgent_AXIS_MEDIC_9
+Manager[13]: Sending notification to fight to: Allied_Medic_5
+Manager[14]: Sending notification to fight to: Allied_Medic_7
+Manager[15]: Sending notification to fight to: Allied_Medic_9
+Manager[16]: Sending notification to fight to: Axis_Team4/jasonAgent_AXIS_FIELDOPS_1
+Manager[17]: Sending notification to fight to: Allied_Soldier_UP_1
+Manager[18]: Sending notification to fight to: Axis_Team4/jasonAgent_AXIS_MEDIC_7
+Manager: Sending Objective notification to agents
+Warning: No mapping found for expired timer 1513784186749
+Warning: No mapping found for expired timer 1513784193093
+Preparing Connection to /127.0.0.1:57730
+JGOMAS Render Engine Server v. 0.1.0
+Waiting for client
+Client says:READY
+Server: Connection Accepted
+
+Warning: No mapping found for expired timer 1513784223550
+Warning: No mapping found for expired timer 1513784247779
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 100
+ performMedictAction(), el valor de Power es: 100
+ performMedictAction(), el valor de Power es: 75
+ performMedictAction(), el valor de Power es: 75
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 50
+ performMedictAction(), el valor de Power es: 25
+ performMedictAction(), el valor de Power es: 50
+ performMedictAction(), el valor de Power es: 25
+ performMedictAction(), el valor de Power es: 0
+Allied_Medic_6 (Packs delivered): 4
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Arrived: medic_pack_taken(20)
+Arrived: medic_pack_taken(20)
+Arrived: medic_pack_taken(20)
+ performMedictAction(), el valor de Power es: 0
+Allied_Medic_8 (Packs delivered): 4
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Arrived: medic_pack_taken(20)
+ performMedictAction(), el valor de Power es: 1
+Allied_Medic_6 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 1
+Allied_Medic_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 1
+Allied_Medic_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 1
+Allied_Medic_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 1
+Allied_Medic_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+Allied_Medic_6 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 1
+Allied_Medic_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 1
+Allied_Medic_6 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 2
+Allied_Medic_6 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 2
+Allied_Medic_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 2
+Allied_Medic_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 2
+Allied_Medic_6 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 2
+Allied_Medic_6 (Packs delivered): 0
+Arrived: medic_pack_taken(20)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 2
+Allied_Medic_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Arrived: medic_pack_taken(20)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 100
+ performMedictAction(), el valor de Power es: 3
+Allied_Medic_8 (Packs delivered): 0
+Arrived: medic_pack_taken(20)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 3
+Allied_Medic_6 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 75
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 3
+Allied_Medic_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 100
+ performMedictAction(), el valor de Power es: 100
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 50
+ performMedictAction(), el valor de Power es: 75
+ performMedictAction(), el valor de Power es: 75
+ performMedictAction(), el valor de Power es: 4
+Allied_Medic_8 (Packs delivered): 0
+Arrived: medic_pack_taken(20)
+Arrived: medic_pack_taken(20)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 25
+ performMedictAction(), el valor de Power es: 50
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 50
+ performMedictAction(), el valor de Power es: 0
+Allied_Medic_7 (Packs delivered): 4
+ performMedictAction(), el valor de Power es: 25
+
+Agent (Axis_Team4/jasonAgent_AXIS_MEDIC_9@127.0.0.1:1099/JADE):
+ performMedictAction(), el valor de Power es: 25
+ performMedictAction(), el valor de Power es: 0
+Allied_Medic_5 (Packs delivered): 4
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 4
+Allied_Medic_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+Arrived: medic_pack_taken(20)
+Being shot: 2 propCont: shooting_to_me(2)
+Arrived: medic_pack_taken(20)
+Arrived: medic_pack_taken(20)
+Arrived: medic_pack_taken(20)
+ performMedictAction(), el valor de Power es: 1
+Allied_Medic_5 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+Allied_Medic_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 0
+Allied_Medic_9 (Packs delivered): 4
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 1
+Allied_Medic_9 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Arrived: medic_pack_taken(20)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 100
+ performMedictAction(), el valor de Power es: 75
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 50
+ performMedictAction(), el valor de Power es: 25
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 0
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 4
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 18
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+Allied_Medic_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+Allied_Medic_5 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 18
+Allied_Medic_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 18
+Allied_Medic_5 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 22
+Allied_Medic_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+Allied_Medic_5 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 19
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+Allied_Medic_5 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 22
+Allied_Medic_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 19
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+Allied_Medic_5 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+Allied_Medic_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 20
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+Allied_Medic_5 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+Allied_Medic_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 4
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 20
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+Allied_Medic_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+Allied_Medic_5 (Packs delivered): 0
+Arrived: medic_pack_taken(20)
+Arrived: medic_pack_taken(20)
+Arrived: medic_pack_taken(20)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 21
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+ performMedictAction(), el valor de Power es: 4
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Allied_Medic_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+Allied_Medic_5 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 21
+Allied_Medic_5 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 25
+ performMedictAction(), el valor de Power es: 21
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 100
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 75
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 50
+ performMedictAction(), el valor de Power es: 25
+ performMedictAction(), el valor de Power es: 0
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 4
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 0
+Allied_Medic_8 (Packs delivered): 1
+ performMedictAction(), el valor de Power es: 22
+Allied_Medic_5 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 5
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 22
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 0
+Allied_Medic_8 (Packs delivered): 0
+Arrived: medic_pack_taken(20)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 6
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 22
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+Allied_Medic_8 (Packs delivered): 0
+Arrived: medic_pack_taken(20)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 2
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 6
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+Allied_Medic_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 23
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 7
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 27
+ performMedictAction(), el valor de Power es: 23
+Allied_Medic_7 (Packs delivered): 0
+Arrived: medic_pack_taken(20)
+ performMedictAction(), el valor de Power es: 2
+Allied_Medic_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 23
+Allied_Medic_9 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 2
+Allied_Medic_6 (Packs delivered): 1
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 3
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+Allied_Medic_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 7
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+Allied_Medic_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+Allied_Medic_9 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+Allied_Medic_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 2
+Allied_Medic_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+Allied_Medic_9 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Warning: No mapping found for expired timer 1513784291110
+ performMedictAction(), el valor de Power es: 24
+Allied_Medic_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 8
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+Allied_Medic_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+Allied_Medic_9 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+Allied_Medic_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+Allied_Medic_9 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 4
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 25
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 8
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 0
+Allied_Medic_7 (Packs delivered): 1
+ performMedictAction(), el valor de Power es: 24
+Allied_Medic_9 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 3
+Allied_Medic_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+Allied_Medic_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 0
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+Allied_Medic_9 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 0
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+Allied_Medic_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 25
+ performMedictAction(), el valor de Power es: 4
+Allied_Medic_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 0
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Arrived: medic_pack_taken(20)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 0
+Allied_Medic_9 (Packs delivered): 1
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 9
+ performMedictAction(), el valor de Power es: 4
+Allied_Medic_6 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+Allied_Medic_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 1
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 0
+Allied_Medic_9 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+Allied_Medic_9 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 1
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+Allied_Medic_9 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 5
+Allied_Medic_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+Allied_Medic_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+Allied_Medic_9 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 27
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 2
+Allied_Medic_5 (Packs delivered): 1
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 2
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+Allied_Medic_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+Allied_Medic_9 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 5
+Allied_Medic_6 (Packs delivered): 0
+
+Agent (Axis_Team4/jasonAgent_AXIS_FIELDOPS_5@127.0.0.1:1099/JADE):
+ performMedictAction(), el valor de Power es: 10
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+ performMedictAction(), el valor de Power es: 2
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+Allied_Medic_9 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+Allied_Medic_5 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+Allied_Medic_5 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 6
+Allied_Medic_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+Allied_Medic_5 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+Allied_Medic_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+Allied_Medic_9 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+Allied_Medic_5 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+Allied_Medic_9 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+Allied_Medic_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 6
+Allied_Medic_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+Allied_Medic_5 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+Allied_Medic_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+Allied_Medic_9 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+Allied_Medic_5 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+Allied_Medic_9 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+Allied_Medic_6 (Packs delivered): 0
+Arrived: ammo_pack_taken(20)
+ performMedictAction(), el valor de Power es: 3
+Allied_Medic_5 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+Allied_Medic_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+Allied_Medic_9 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+Allied_Medic_5 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+Allied_Medic_9 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+Allied_Medic_7 (Packs delivered): 0
+Arrived: ammo_pack_taken(20)
+ performMedictAction(), el valor de Power es: 7
+Allied_Medic_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+Allied_Medic_5 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+Allied_Medic_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+Allied_Medic_9 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+Allied_Medic_5 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+Allied_Medic_9 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+Allied_Medic_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+Allied_Medic_5 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+Allied_Medic_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+Allied_Medic_9 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+Allied_Medic_5 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+Allied_Medic_9 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+Allied_Medic_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_6 (Packs delivered): 4
+ performMedictAction(), el valor de Power es: 8
+Allied_Medic_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+Allied_Medic_5 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+Allied_Medic_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 4
+Allied_Medic_9 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+Allied_Medic_5 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+Allied_Medic_9 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+Allied_Medic_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+Allied_Medic_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+Allied_Medic_5 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+Allied_Medic_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+Allied_Medic_9 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+Allied_Medic_5 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+Allied_Medic_9 (Packs delivered): 0
+Allied_Medic_8: got the objective pack 1
+[ObjectivePack@127.0.0.1:1099/JADE]: Objective Taken!!
+Arrived: objective_position(24,0,232)
+ performMedictAction(), el valor de Power es: 5
+Allied_Medic_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 9
+Allied_Medic_6 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 9
+Allied_Medic_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+Allied_Medic_5 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+Allied_Medic_9 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+Allied_Medic_5 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+Allied_Medic_9 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+Allied_Medic_9 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 10
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 15
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 15
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+Allied_Medic_5 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 11
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+Allied_Medic_9 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+Allied_Medic_5 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+Allied_Medic_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+Allied_Medic_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+Allied_Medic_5 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+Allied_Medic_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 7
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+Allied_Medic_5 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 7
+Allied_Medic_9 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+Allied_Medic_5 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+Allied_Medic_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+Allied_Medic_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+Allied_Medic_9 (Packs delivered): 0
+Arrived: ammo_pack_taken(20)
+ performMedictAction(), el valor de Power es: 7
+Allied_Medic_9 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 8
+Allied_Medic_9 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 12
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 8
+Allied_Medic_9 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 13
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 9
+Allied_Medic_9 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 13
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+Allied_Medic_6 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 9
+Allied_Medic_5 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+Allied_Medic_9 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+Allied_Medic_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+Allied_Medic_5 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+Allied_Medic_9 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 9
+Allied_Medic_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 10
+Allied_Medic_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 14
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+Allied_Medic_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+Allied_Medic_5 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+Allied_Medic_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+Allied_Medic_5 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+Allied_Medic_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 10
+Allied_Medic_9 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+Allied_Medic_9 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 10
+Allied_Medic_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 14
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+Allied_Medic_5 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+Allied_Medic_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+Allied_Medic_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+Allied_Medic_5 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+Allied_Medic_9 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+Allied_Medic_9 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 11
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+Allied_Medic_5 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+Allied_Medic_6 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 15
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+Allied_Medic_9 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 11
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+Allied_Medic_5 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 11
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+Allied_Medic_5 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+Allied_Medic_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+Allied_Medic_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+Allied_Medic_9 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+Allied_Medic_9 (Packs delivered): 0
+Arrived: ammo_pack_taken(20)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 15
+Allied_Medic_6 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 12
+Allied_Medic_5 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+Allied_Medic_9 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 12
+Allied_Medic_5 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+Allied_Medic_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 16
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+Allied_Medic_9 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 13
+Allied_Medic_5 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 17
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+Allied_Medic_9 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 13
+Allied_Medic_5 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 13
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+Allied_Medic_9 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 18
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+Allied_Medic_5 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+Allied_Medic_9 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 14
+Allied_Medic_5 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 18
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+Allied_Medic_9 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 15
+Allied_Medic_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+
+Agent (Axis_Team4/jasonAgent_AXIS_FIELDOPS_6@127.0.0.1:1099/JADE):
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+ performMedictAction(), el valor de Power es: 15
+Allied_Medic_5 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 15
+Allied_Medic_5 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+Allied_Medic_9 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 15
+Allied_Medic_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 15
+Allied_Medic_5 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 15
+Allied_Medic_5 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+Allied_Medic_9 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 16
+Allied_Medic_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 16
+Allied_Medic_5 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 16
+Allied_Medic_5 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+Allied_Medic_9 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 16
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+Allied_Medic_9 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 22
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 28
+ performMedictAction(), el valor de Power es: 3
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 1
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 3
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+Allied_Medic_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+Allied_Medic_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 3
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+Allied_Medic_9 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 4
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 4
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 5
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 6
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 26
+Arrived: medic_pack_taken(20)
+Arrived: ammo_pack_taken(20)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 1
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 1
+Arrived: ammo_pack_taken(20)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 7
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 8
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 8
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 4
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 9
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 9
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 9
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 9
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 10
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 10
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 10
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 10
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 11
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 4
+Arrived: ammo_pack_taken(20)
+Arrived: ammo_pack_taken(20)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Arrived: ammo_pack_taken(20)
+ performMedictAction(), el valor de Power es: 11
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 12
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Arrived: ammo_pack_taken(20)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 4
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 8
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 9
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 14
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 15
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 15
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+
+Agent (Allied_Medic_8@127.0.0.1:1099/JADE):
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 16
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 12
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 17
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 12
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 13
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 18
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 19
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 14
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 19
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 19
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 14
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 14
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 15
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 20
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 15
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 21
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 21
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 17
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 22
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 17
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 22
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 22
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 18
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+
+Agent (Allied_Medic_6@127.0.0.1:1099/JADE):
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Allied_Medic_7: got the objective pack 1
+[ObjectivePack@127.0.0.1:1099/JADE]: Objective Taken!!
+Arrived: objective_position(24,0,232)
+ performMedictAction(), el valor de Power es: 18
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 23
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 18
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 40
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 23
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 24
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 15
+Allied_Medic_7 (Packs delivered): 1
+Arrived: medic_pack_taken(20)
+ performMedictAction(), el valor de Power es: 19
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 24
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 24
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 24
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 25
+ performMedictAction(), el valor de Power es: 20
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Arrived: medic_pack_taken(20)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 0
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 1
+ performMedictAction(), el valor de Power es: 0
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 0
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 0
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 0
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+
+Agent (Allied_Medic_5@127.0.0.1:1099/JADE):
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+ performMedictAction(), el valor de Power es: 20
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 0
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 1
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 1
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 1
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 1
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 2
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 22
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 22
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 43
+Arrived: medic_pack_taken(20)
+ performMedictAction(), el valor de Power es: 18
+Allied_Medic_9 (Packs delivered): 1
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 2
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 22
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 22
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 3
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 3
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 23
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 4
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 24
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 4
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 4
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 24
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 25
+ performMedictAction(), el valor de Power es: 5
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 0
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 1
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 0
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 0
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 0
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 1
+ performMedictAction(), el valor de Power es: 6
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 1
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 23
+Allied_Medic_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 2
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 3
+Axis_Team4/jasonAgent_AXIS_MEDIC_8 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+
+Agent (Axis_Team4/jasonAgent_AXIS_MEDIC_8@127.0.0.1:1099/JADE):
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 1
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 1
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 11
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 12
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 29
+ performMedictAction(), el valor de Power es: 29
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 1
+Being shot: 2 propCont: shooting_to_me(2)
+Arrived: ammo_pack_taken(20)
+ performMedictAction(), el valor de Power es: 4
+Allied_Medic_9 (Packs delivered): 1
+ performMedictAction(), el valor de Power es: 4
+Allied_Medic_7 (Packs delivered): 1
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 14
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Warning: No mapping found for expired timer 1513784347469
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 14
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+Allied_Medic_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 14
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+Allied_Medic_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 6
+Allied_Medic_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 6
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 15
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+Allied_Medic_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 6
+Allied_Medic_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 15
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+Allied_Medic_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 7
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+Allied_Medic_9 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 16
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 16
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 16
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 17
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 8
+Allied_Medic_9 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 8
+Allied_Medic_9 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 8
+Allied_Medic_9 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 17
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+Allied_Medic_9 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 8
+Allied_Medic_9 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 18
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+Allied_Medic_9 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 9
+Allied_Medic_9 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 9
+Allied_Medic_9 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 9
+Allied_Medic_9 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 18
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+Allied_Medic_9 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 9
+Allied_Medic_9 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Arrived: ammo_pack_taken(20)
+Arrived: medic_pack_taken(20)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 15
+Allied_Medic_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+Allied_Medic_9 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 15
+Allied_Medic_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 25
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 0
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 1
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 1
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+Allied_Medic_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+Allied_Medic_9 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 19
+Allied_Medic_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+
+Agent (Allied_Medic_7@127.0.0.1:1099/JADE):
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4: returned the objective pack 1
+[ObjectivePack@127.0.0.1:1099/JADE]: Objective Taken!!
+Arrived: null
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Allied_Soldier_UP_4: got the objective pack 1
+[ObjectivePack@127.0.0.1:1099/JADE]: Objective Taken!!
+Arrived: objective_position(24,0,232)
+ performMedictAction(), el valor de Power es: 3
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 4
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Arrived: medic_pack_taken(20)
+ performMedictAction(), el valor de Power es: 5
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 5
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 6
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 7
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 7
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Arrived: ammo_pack_taken(20)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 1
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 8
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 1
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 1
+ performMedictAction(), el valor de Power es: 12
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Arrived: ammo_pack_taken(20)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Arrived: medic_pack_taken(20)
+Arrived: ammo_pack_taken(20)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 33
+ performMedictAction(), el valor de Power es: 8
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 1
+ performMedictAction(), el valor de Power es: 8
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Arrived: ammo_pack_taken(20)
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 1
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 1
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 1
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 14
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 14
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 14
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 16
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 19
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 19
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+
+Agent (Allied_Medic_9@127.0.0.1:1099/JADE):
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_1 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_3 (Packs delivered): 0
+Axis_Team4/jasonAgent_AXIS_FIELDOPS_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+Axis_Team4/jasonAgent_AXIS_MEDIC_7 (Packs delivered): 0
+Arrived: ammo_pack_taken(20)
+Arrived: ammo_pack_taken(20)
+
+Agent (Axis_Team4/jasonAgent_AXIS_FIELDOPS_3@127.0.0.1:1099/JADE):
+
+Agent (Axis_Team4/jasonAgent_AXIS_FIELDOPS_4@127.0.0.1:1099/JADE):
+Client says:QUIT
+Agent (Axis_Team4/jasonAgent_AXIS_FIELDOPS_2@127.0.0.1:1099/JADE):
+
+
+Agent (Allied_Soldier_UP_3@127.0.0.1:1099/JADE):
+
+Agent (Axis_Team4/jasonAgent_AXIS_FIELDOPS_1@127.0.0.1:1099/JADE):
+
+Agent (Allied_Soldier_UP_2@127.0.0.1:1099/JADE):
+
+Agent (Allied_Soldier_UP_1@127.0.0.1:1099/JADE):
+
+Agent (Allied_Soldier_UP_4@127.0.0.1:1099/JADE):
+
+Agent (Axis_Team4/jasonAgent_AXIS_MEDIC_7@127.0.0.1:1099/JADE):
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+Shutting down server
+
+
+Manager:  GAME FINISHED!! Winner Team: ALLIED! (Target Returned)
+
+
+Agent (Manager@127.0.0.1:1099/JADE):
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
